@@ -41,7 +41,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ### 2. Customer Revenue by Cohort
 
-🖥️ **Query:** [2_cohort_analysis.sql](/2_cohort_analysis.sql)
+🖥️ **Query:** [2_cohort_analysis.sql](/Scripts/2_cohort_analysis.sql)
 
 - Tracked revenue and customer count per cohort  
 - Cohorts were grouped by year of first purchase  
